@@ -1,0 +1,7 @@
+*.pickle
+*.json
+*.csv
+*.hdf5
+*__data__
+*.h5
+data/*
